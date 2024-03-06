@@ -10,13 +10,12 @@ html {
 #root {
   font-family: 'Montserrat', sans-serif;
   display: flex;
-  overflow: auto;
+  
   align-items: center;
   justify-content: center;
   min-height: 100 vh;
   background-image: url("Background_2.JPG");
   background-size: cover;
-  background-repeat: repeat;
- 
+  background-position: center;
   
-}
+   }
